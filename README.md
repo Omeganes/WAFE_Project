@@ -14,4 +14,4 @@ This is a simple program that implements the CRUD operations using PHP
 
 
 ## Instructions
-You'll need to use XAMP or WAMP server with this project as your Localhost location to run this project
+You'll need to use XAMP server or WAMP server "or any of your choice" with this project as your Localhost location to run this project
